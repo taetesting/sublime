@@ -1,8 +1,8 @@
-# sublime package
+# sublime packageS
 
-`Alignment`
-`Git`
-`GitGutter`
-`SublimeLinter`
-`SublimeLinter-php`
-`EvercodeLab Sublime Snippets`
+* Alignment
+* Git
+* GitGutter
+* SublimeLinter
+* SublimeLinter-php
+* EvercodeLab Sublime Snippets
